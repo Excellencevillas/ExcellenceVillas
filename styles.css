@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+.hero {
+    background: url('villa1.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 100px 20px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: gold;
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
